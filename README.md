@@ -1,2 +1,2 @@
-# future-java-project
-A starter repository for a future Java project.
+# SistemaVentasJava
+Un programa CLI simple para consultar y registrar productos de una tienda
