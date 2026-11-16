@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar Sistema de Inventario (Menú)",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar Pruebas Unitarias (InventarioTest)",
+            "request": "launch",
+            "mainClass": "InventarioTest",
+            "console": "internalConsole"
+        }
+    ]
+}
